@@ -93,13 +93,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Nanda Kishore Releases Nexus Repository</name>
-	      <url>http://18.119.97.32:8081//repository/trees/</url>
+	      <url>http://18.119.97.32:8081//repository/trees-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nanda kishore Snapshot Nexus Repository </name>
-	      <url>http://18.119.97.32:8081/repository/trees-release/</url>
+	      <url>http://18.119.97.32:8081/repository/trees/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
